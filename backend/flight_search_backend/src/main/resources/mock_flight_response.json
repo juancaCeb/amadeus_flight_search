@@ -1,0 +1,2561 @@
+{
+  "flightOffers": [
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 54 minutes",
+          "initialDepartureDayTime": "2025-05-01T12:54:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T12:54:00",
+              "arrivalDayTime": "2025-05-01T15:48:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T15:48:00"
+        },
+        {
+          "totalTime": "2 hours and 0 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:00:00",
+              "arrivalDayTime": "2025-05-01T21:00:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T21:00:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "4",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "4",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 54 minutes",
+          "initialDepartureDayTime": "2025-05-01T12:54:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T12:54:00",
+              "arrivalDayTime": "2025-05-01T15:48:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T15:48:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:20:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:20:00",
+              "arrivalDayTime": "2025-05-01T23:10:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:10:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "5",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "5",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 54 minutes",
+          "initialDepartureDayTime": "2025-05-01T12:54:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T12:54:00",
+              "arrivalDayTime": "2025-05-01T15:48:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T15:48:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:25:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:25:00",
+              "arrivalDayTime": "2025-05-01T23:15:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:15:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 54 minutes",
+          "initialDepartureDayTime": "2025-05-01T12:54:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T12:54:00",
+              "arrivalDayTime": "2025-05-01T15:48:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T15:48:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:30:00",
+              "arrivalDayTime": "2025-05-01T23:20:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:20:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T14:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T14:30:00",
+              "arrivalDayTime": "2025-05-01T17:25:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T17:25:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:25:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:25:00",
+              "arrivalDayTime": "2025-05-01T23:15:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:15:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T14:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T14:30:00",
+              "arrivalDayTime": "2025-05-01T17:25:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T17:25:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:30:00",
+              "arrivalDayTime": "2025-05-01T23:20:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:20:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 54 minutes",
+          "initialDepartureDayTime": "2025-05-01T12:54:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T12:54:00",
+              "arrivalDayTime": "2025-05-01T15:48:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T15:48:00"
+        },
+        {
+          "totalTime": "3 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:35:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:35:00",
+              "arrivalDayTime": "2025-05-01T23:30:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:30:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "1",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T14:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T14:30:00",
+              "arrivalDayTime": "2025-05-01T17:25:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T17:25:00"
+        },
+        {
+          "totalTime": "3 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:35:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:35:00",
+              "arrivalDayTime": "2025-05-01T23:30:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:30:00"
+        }
+      ],
+      "totalPrice": "1817.42",
+      "currency": "USD",
+      "basePrice": "1410.00",
+      "fees": "407.42",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "908.71",
+          "travelerPriceBase": "705.00",
+          "fareDetails": [
+            {
+              "segmentId": "3",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T10:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T10:00:00",
+              "arrivalDayTime": "2025-05-01T12:55:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T12:55:00"
+        },
+        {
+          "totalTime": "2 hours and 0 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:00:00",
+              "arrivalDayTime": "2025-05-01T21:00:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T21:00:00"
+        }
+      ],
+      "totalPrice": "1827.82",
+      "currency": "USD",
+      "basePrice": "1420.00",
+      "fees": "407.82",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "4",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "4",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T10:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T10:00:00",
+              "arrivalDayTime": "2025-05-01T12:55:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T12:55:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:20:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:20:00",
+              "arrivalDayTime": "2025-05-01T23:10:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:10:00"
+        }
+      ],
+      "totalPrice": "1827.82",
+      "currency": "USD",
+      "basePrice": "1420.00",
+      "fees": "407.82",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "5",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "5",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T10:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T10:00:00",
+              "arrivalDayTime": "2025-05-01T12:55:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T12:55:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:25:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:25:00",
+              "arrivalDayTime": "2025-05-01T23:15:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:15:00"
+        }
+      ],
+      "totalPrice": "1827.82",
+      "currency": "USD",
+      "basePrice": "1420.00",
+      "fees": "407.82",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "6",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T10:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T10:00:00",
+              "arrivalDayTime": "2025-05-01T12:55:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T12:55:00"
+        },
+        {
+          "totalTime": "3 hours and 50 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:30:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:30:00",
+              "arrivalDayTime": "2025-05-01T23:20:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:20:00"
+        }
+      ],
+      "totalPrice": "1827.82",
+      "currency": "USD",
+      "basePrice": "1420.00",
+      "fees": "407.82",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "7",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "flightItineraries": [
+        {
+          "totalTime": "2 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T10:00:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T10:00:00",
+              "arrivalDayTime": "2025-05-01T12:55:00",
+              "departureAirportIATA": "CUN",
+              "arrivalAirportIATA": "FLL",
+              "aircraftCode": "223",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T12:55:00"
+        },
+        {
+          "totalTime": "3 hours and 55 minutes",
+          "initialDepartureDayTime": "2025-05-01T19:35:00",
+          "flightSegments": [
+            {
+              "departureDayTime": "2025-05-01T19:35:00",
+              "arrivalDayTime": "2025-05-01T23:30:00",
+              "departureAirportIATA": "FLL",
+              "arrivalAirportIATA": "CUN",
+              "aircraftCode": "321",
+              "carriers": "B6"
+            }
+          ],
+          "finalDepartureDayTime": "2025-05-01T23:30:00"
+        }
+      ],
+      "totalPrice": "1827.82",
+      "currency": "USD",
+      "basePrice": "1420.00",
+      "fees": "407.82",
+      "flightTravelers": [
+        {
+          "travelerId": "1",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "travelerId": "2",
+          "fareOption": "STANDARD",
+          "travelerPriceTotal": "913.91",
+          "travelerPriceBase": "710.00",
+          "fareDetails": [
+            {
+              "segmentId": "2",
+              "cabin": "ECONOMY",
+              "fareClass": "P",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            },
+            {
+              "segmentId": "8",
+              "cabin": "ECONOMY",
+              "fareClass": "E",
+              "amenities": [
+                {
+                  "description": "CHECKED BAG FIRST",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "CHECKED BAG SECOND",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "EXTRA LEGROOM",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "ADVANCE SEAT SELECTION",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "SNACK",
+                  "isChargeable": "false"
+                },
+                {
+                  "description": "ALCOHOLIC DRINK",
+                  "isChargeable": "true"
+                },
+                {
+                  "description": "NON ALCOHOLIC DRINK",
+                  "isChargeable": "false"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "flightDictionaryDTO": {
+    "aircraft": {
+      "321": "AIRBUS A321",
+      "223": "AIRBUS  A220-300"
+    },
+    "carriers": {
+      "B6": "JETBLUE AIRWAYS"
+    }
+  }
+}
