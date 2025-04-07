@@ -12,7 +12,7 @@ const emptyFlightData: Flight = {
   }
 };
 
-// Function to get airport city and name
+
 const getAirportCityAndName = (iata: string) => {
   const airport = Object.values(data).find((item) => item.iata && item.iata === iata);
   if (airport) {
@@ -92,16 +92,16 @@ export default function ShowFlightResults() {
       });
     });
     return airportNameMap;
-  }, [flights]); // Recompute when flights change
+  }, [flights]); 
 
-  // State to store sorting option
+
   const [sortCriteria, setSortCriteria] = useState<'duration' | 'price'>('duration');
 
-  // Sorting function
+
   const sortedFlights = useMemo(() => {
     return flights.sort((a, b) => {
       if (sortCriteria === 'duration') {
-        // Assuming totalTime is a string or number, we'll convert it to a number
+
         const totalDurationA = a.flightItineraries.reduce((total, itinerary) => {
           return total + (typeof itinerary.totalTime === 'string' ? parseInt(itinerary.totalTime) : itinerary.totalTime);
         }, 0);

@@ -2,7 +2,7 @@ import { useLocation } from "react-router-dom";
 import { FlightItinerary, FlightTraveler } from "./types";
 import data from "../assets/airportData.json";  
 
-// Helper function to format date
+
 const formatDate = (dateStr: string) => {
   const date = new Date(dateStr);
   return date.toLocaleString("en-US", {

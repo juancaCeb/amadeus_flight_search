@@ -1,6 +1,6 @@
 FROM node:alpine
 
-WORKDIR /flight_search_frontend
+WORKDIR /flight_search
 
 COPY package*.json .
 
